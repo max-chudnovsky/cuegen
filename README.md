@@ -7,7 +7,8 @@ artist is intentionally populated the same for all tracks to simplify searching 
 Input file example (./input):
 ----------------------------
 
-```<HEADER LINE>: ARTIST:NAME_OF_ALBUM:YEAR
+```
+<HEADER LINE>: ARTIST:NAME_OF_ALBUM:YEAR
   example:  Ethnic Music:Best Deep House Mix Vol.54:2024
 
 DATA:  STARTTIME ARTIST - TRACKNAME
