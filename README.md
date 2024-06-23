@@ -11,8 +11,7 @@ Input file example (./input):
 <HEADER LINE>: ARTIST:NAME_OF_ALBUM:YEAR
 
 example:
-----
-Ethnic Music:Best Deep House Mix Vol.54:2024
+`Ethnic Music:Best Deep House Mix Vol.54:2024`
 
 DATA:  STARTTIME ARTIST - TRACKNAME
 
