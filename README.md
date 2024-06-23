@@ -1,4 +1,5 @@
 cuegen
+----------------------------
 a small script that converts track lists from YouTube videos into cue files that can be used with mp3tag
 
 artist is intentionally populated the same for all tracks to simplify searching in iTunes from the header line of the input file.  actual "artist - track" is added to the title of the track so it is visible when it's playing.
