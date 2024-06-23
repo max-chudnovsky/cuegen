@@ -1,7 +1,8 @@
 #!/bin/bash
+# written by Max Chudnovsky
 
 # Init
-INPUT=./input.txt
+INPUT=./input
 MP3FILE=$1
 TRACK=1
 
